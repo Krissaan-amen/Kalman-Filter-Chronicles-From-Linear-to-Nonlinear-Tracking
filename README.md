@@ -1,5 +1,9 @@
 # Kalman Filter Chronicles: From Linear to Nonlinear Tracking
 
+<p align="center">
+  <img src="Pic\Lab.png" width="40%" />
+</p>
+
 ## Project Overview
 This repository takes you on a journey through the fascinating world of Kalman filtering! Watch as we evolve from basic linear filters to advanced nonlinear techniques for tracking objects that refuse to move in straight lines.
 
