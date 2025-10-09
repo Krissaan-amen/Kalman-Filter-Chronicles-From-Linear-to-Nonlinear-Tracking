@@ -21,10 +21,10 @@ In this first adventure, we track an object moving in 2D space using the classic
 - Velocity estimates get a bit... wild 
 - Smoothing makes everything better (if you can wait for future data)
 
-## 🧙‍♂️ Lab 2: Nonlinear Kalman Filtering - The Advanced Stuff
+## Lab 2: Nonlinear Kalman Filtering - The Advanced Stuff
 When objects start moving in mysterious ways, we need more powerful magic:
 
-### ✨ Features
+###  Features
 - **Object Simulation**: Moving target with Wiener velocity model
 - **EKF Sorcery**: Extended Kalman Filter that linearizes the nonlinear world
 - **UKF Wizardry**: Unscented Kalman Filter that samples the nonlinear universe
